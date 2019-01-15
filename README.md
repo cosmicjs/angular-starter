@@ -1,0 +1,1 @@
+cosmicjs-angular-starter
