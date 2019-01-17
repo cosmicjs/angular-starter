@@ -14,3 +14,5 @@ cosmic init angular-starter
 cd angular-starter
 cosmic start
 ```
+## [Angular CMS](https://cosmicjs.com/knowledge-base/angularjs-cms)
+Cosmic JS is a [Headless CMS](https://cosmicjs.com/headless-cms). Use it to power content for your Angular websites and apps.
