@@ -10,7 +10,7 @@ export class CosmicService {
   constructor(private http: HttpClient) {}
 
   getPage(slug: string) {
-    const url = `${environment.URL + environment.bucket_slug}/object/${slug}`;
+    const url = `${environment.URL + environment.bucket_slug}/object/${slug}?read_key=${environment.read_key}`;
     return this.http.get(url).pipe(
       map(_ => {
         return _['object'];

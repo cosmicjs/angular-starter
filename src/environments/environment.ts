@@ -1,7 +1,7 @@
 export const environment = {
   production: false,
-  read_key: 'Lra3068QQTkSSqXie3EE1uL3BWq22XKY06EhzhG54r7enn0gJM',
+  read_key: 'BHZWdg7ZcdKpY2di0uLtnRh9PqYvALaEQK1IccJYf7RNyha1BE',
   write_key: '##COSMIC_WRITE_KEY##',
-  bucket_slug: 'bddf7f70-6f71-11ea-9399-e3d37d49b96d',
+  bucket_slug: '88f49040-6f74-11ea-a79e-99343798db09',
   URL: 'https://api.cosmicjs.com/v1/'
 };
