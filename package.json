@@ -22,10 +22,10 @@
     "@angular/platform-browser": "~7.1.0",
     "@angular/platform-browser-dynamic": "~7.1.0",
     "@angular/router": "~7.1.0",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "core-js": "^2.5.4",
     "cosmicjs": "^3.2.40",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
