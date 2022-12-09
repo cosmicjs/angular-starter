@@ -25,7 +25,7 @@
     "body-parser": "^1.18.3",
     "core-js": "^2.5.4",
     "cosmicjs": "^3.2.40",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
