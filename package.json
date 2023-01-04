@@ -24,14 +24,14 @@
     "@angular/router": "~7.1.0",
     "body-parser": "^1.18.3",
     "core-js": "^2.5.4",
-    "cosmicjs": "^3.2.40",
+    "cosmicjs": "^3.4.4",
     "express": "^4.16.4",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.11.0",
+    "@angular-devkit/build-angular": "~15.0.4",
     "@angular/cli": "~7.1.1",
     "@angular/compiler-cli": "~7.1.0",
     "@angular/language-service": "~7.1.0",
